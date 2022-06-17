@@ -9,3 +9,5 @@ Here's the [link to the React Course from Scrimba](https://scrimba.com/learn/lea
 
 The command to build and push the app to github pages is:
 ###npm run deploy 
+
+Favicon made with: [favicon.cc](https://favicon.cc/)
