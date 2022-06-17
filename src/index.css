@@ -42,20 +42,34 @@ section {
 }
 .card {
   font-size: 12px;
+  position: relative;
 }
 .card--cover-image {
   width: 200px;
   border-radius: 10px;
 }
+.card--badge {
+  border: none;
+  border-radius: 2px;
+  position: absolute;
+  left: 7px;
+  top: 7px;
+  padding: 3px 7px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  background-color: #ffffff;
+}
 .card--star-icon {
-  width: 15px;
-  padding: 5px;
+  width: 13px;
+  padding-right: 4px;
 }
 .card--details {
   display: flex;
   align-items: center;
   margin: 7px auto;
 }
+
 .card--price {
   font-weight: 600;
 }
