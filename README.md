@@ -11,3 +11,4 @@ The command to build and push the app to github pages is:
 ###npm run deploy 
 
 Favicon made with: [favicon.cc](https://favicon.cc/)
+Link to the [Figma design](https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=0%3A1): 
